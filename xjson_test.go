@@ -1,4 +1,4 @@
-package qjson
+package xjson
 
 import (
 	//	"reflect"
